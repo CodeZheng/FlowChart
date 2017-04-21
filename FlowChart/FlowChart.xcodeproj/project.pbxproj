@@ -14,6 +14,8 @@
 		847EA3331E9B2D6900C5C378 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 847EA3311E9B2D6900C5C378 /* LaunchScreen.storyboard */; };
 		847EA33E1E9B2D6900C5C378 /* FlowChartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847EA33D1E9B2D6900C5C378 /* FlowChartTests.swift */; };
 		847EA3491E9B2D6900C5C378 /* FlowChartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847EA3481E9B2D6900C5C378 /* FlowChartUITests.swift */; };
+		847EA3571E9B62E300C5C378 /* 矩形.png in Resources */ = {isa = PBXBuildFile; fileRef = 847EA3561E9B62E300C5C378 /* 矩形.png */; };
+		847EA3591E9B639300C5C378 /* 箭头.png in Resources */ = {isa = PBXBuildFile; fileRef = 847EA3581E9B639300C5C378 /* 箭头.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		847EA3441E9B2D6900C5C378 /* FlowChartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlowChartUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		847EA3481E9B2D6900C5C378 /* FlowChartUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowChartUITests.swift; sourceTree = "<group>"; };
 		847EA34A1E9B2D6900C5C378 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		847EA3561E9B62E300C5C378 /* 矩形.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "矩形.png"; sourceTree = "<group>"; };
+		847EA3581E9B639300C5C378 /* 箭头.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "箭头.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 			children = (
 				847EA3281E9B2D6900C5C378 /* AppDelegate.swift */,
 				847EA32A1E9B2D6900C5C378 /* ViewController.swift */,
+				847EA3561E9B62E300C5C378 /* 矩形.png */,
+				847EA3581E9B639300C5C378 /* 箭头.png */,
 				847EA32C1E9B2D6900C5C378 /* Main.storyboard */,
 				847EA32F1E9B2D6900C5C378 /* Assets.xcassets */,
 				847EA3311E9B2D6900C5C378 /* LaunchScreen.storyboard */,
@@ -235,6 +241,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				847EA3591E9B639300C5C378 /* 箭头.png in Resources */,
+				847EA3571E9B62E300C5C378 /* 矩形.png in Resources */,
 				847EA3331E9B2D6900C5C378 /* LaunchScreen.storyboard in Resources */,
 				847EA3301E9B2D6900C5C378 /* Assets.xcassets in Resources */,
 				847EA32E1E9B2D6900C5C378 /* Main.storyboard in Resources */,
